@@ -1,0 +1,23 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	
+	background-color: #164AF1;
+
+}
+
+#contenedor{
+	width: 350px;
+	background-color: white;	
+	margin: auto;
+	margin-top: 350px;
+	padding: 5px 5px 30px 5px;
+	border-radius: 6px;
+}
+
+#titulo{
+	color: black;
+}
+

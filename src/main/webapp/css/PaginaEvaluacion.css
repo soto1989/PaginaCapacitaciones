@@ -1,0 +1,28 @@
+#evaluacion{
+	
+	margin: 10px;
+}
+
+#titulo{
+	text-align: center;
+}
+
+.pregunta1{
+background-color: #0C81F9; 
+padding: 40px; /* padding es un margen interior, de borde hacia dentro*/ 
+margin: 50px; /* margin es un margen exterior, de borde hacia afuera*/
+width: 500px; /* con width definimos un ancho*/
+height: 100px; /* con heigth definimos una altura*/ 
+border: black dashed;
+text-align: justify;
+
+}
+
+.contenedor{
+	padding: 40px;
+	margin: 80px;
+	width: 1000px;
+	height: auto;
+	border: black 5px dashed;
+}
+
